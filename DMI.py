@@ -28,7 +28,19 @@ nasty_hardcoded_state_list = [
 "1-f",
 "2-f",
 "3-f",
-"4-f"
+"4-f",
+"d-se-0",
+"d-se-1",
+"d-se",
+"d-sw-0",
+"d-sw-1",
+"d-sw",
+"d-ne-0",
+"d-ne-1",
+"d-ne",
+"d-nw-0",
+"d-nw-1",
+"d-nw"
 ]
 
 index_regex = re.compile(r"(.*)? =")
